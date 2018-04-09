@@ -3,6 +3,12 @@ Nginx image for Symfony
 
 Nginx container for Symfony 4 applications. Symfony is not installed in the Image.
 
+Document Root
+-------------
+
+The required document root for symfony4 is set to `<your symfony4
+project>/public`. This is de recommended setup for symfony4 production.
+
 Environment variables
 ---------------------
 
