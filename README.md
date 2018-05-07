@@ -1,5 +1,5 @@
-Nginx image for Symfony
-=======================
+Nginx image for Symfony4
+========================
 
 Nginx container for Symfony 4 applications. Symfony is not installed in the Image.
 
